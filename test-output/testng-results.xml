@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-12T23:39:10 IST" name="Default suite" finished-at="2024-04-12T23:39:15 IST" duration-ms="5172">
+    <groups>
+    </groups>
+    <test started-at="2024-04-12T23:39:10 IST" name="Default test" finished-at="2024-04-12T23:39:15 IST" duration-ms="5172">
+      <class name="example.TestAPI">
+        <test-method signature="auth()[pri:0, instance:example.TestAPI@50eac852]" started-at="2024-04-12T23:39:10 IST" name="auth" finished-at="2024-04-12T23:39:12 IST" duration-ms="2358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- auth -->
+        <test-method signature="delete()[pri:0, instance:example.TestAPI@50eac852]" started-at="2024-04-12T23:39:12 IST" name="delete" finished-at="2024-04-12T23:39:13 IST" duration-ms="852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method signature="getmethod()[pri:0, instance:example.TestAPI@50eac852]" started-at="2024-04-12T23:39:13 IST" name="getmethod" finished-at="2024-04-12T23:39:14 IST" duration-ms="1181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getmethod -->
+        <test-method signature="post()[pri:0, instance:example.TestAPI@50eac852]" started-at="2024-04-12T23:39:14 IST" name="post" finished-at="2024-04-12T23:39:15 IST" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post -->
+      </class> <!-- example.TestAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
